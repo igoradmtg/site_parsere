@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mostertb/transmission-php": "dev-master",
+        "kriswallsmith/buzz": ">=0.9 <=0.16.1",
+        "irazasyed/telegram-bot-sdk": "^3.0"
+    }
+}
